@@ -378,10 +378,6 @@ The tool includes comprehensive error handling for:
 - **API Security**: CORS configuration and request sanitization
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙋♂️ Support
 
 - **Issues**: Report bugs or request features via GitHub Issues
